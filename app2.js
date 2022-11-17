@@ -7,7 +7,7 @@ window.addEventListener("mouseover",toggoleclass);
 password.addEventListener("click",toggoleclasspassword);
 button.addEventListener("click",toggolebutton);
 // button.addEventListener("click",myfunction);
-document.addEventListener("keyup", myfunction);
+password.addEventListener("keyup", myfunction);
 // username.classList.add("usernametype");
 //     username.classList.remove("hoverclass");
 
